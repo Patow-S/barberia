@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+
+.titulo-principal{
+    padding-left: 30px;
+    text-align: center;
+}
+#logo{
+    width: 5%;
+}
+
+.titulos-secundarios{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    color: brown;
+
+}
+#banner1{
+    width: 100%;
+}
+.principal{
+    background-color:#CCCCCC;
+    padding: 20px;
+}
+.diferenciales{
+background-color: white;
+padding: 30px;
+}
+.items{
+    font-size: italic;
+}
+#poste{
+    width: 50%;
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+footer p{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 15px;
+    padding: 20px;
+background-image: url(assets/bg.jpg);
+
+}
+footer p a{
+    text-decoration: none;
+   color: aliceblue;
+}
